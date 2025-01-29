@@ -1,4 +1,4 @@
-package Pcce1;
+package pcce1;
 
 public class Pcce101 { // compile 돌려볼 수 있게 이름 변경
     public static void main(String[] args) {

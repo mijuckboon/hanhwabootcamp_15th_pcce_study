@@ -1,4 +1,4 @@
-package Pcce1;
+package pcce1;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Pcce2;
+package pcce2;
 
 public class Pcce205 { // compile 돌려볼 수 있게 이름 변경
     public int[] solution(String[] cpr) {

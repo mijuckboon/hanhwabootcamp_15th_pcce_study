@@ -1,4 +1,4 @@
-package Pcce1;
+package pcce1;
 
 public class Pcce106 { // compile 돌려볼 수 있게 이름 변경
     public String[] solution(int[] numbers, int[] our_score, int[] score_list) {
